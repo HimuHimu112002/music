@@ -1,0 +1,711 @@
+@media(max-width:2560px) and (min-width:1921px){
+    .headphone-img img {
+        width: 90%;
+    }
+    .plates {
+        width: 36%;
+    }
+}
+@media(max-width:1560px) and (min-width:1400px){
+    .headphone-img img {
+        width: 100%;
+    }
+    .plates {
+        width: 42%;
+        top: -27px;
+    }
+    .lorem {
+        padding: 10px 0 158px;
+    }
+    .features {
+        margin-bottom: 238px;
+    }
+    .headphone-img {
+        top: 95px;
+        width: 41%;
+    }
+}
+@media(max-width:1399px) and (min-width:1251px){
+    .headphone-img img {
+        width: 100%;
+    }
+    .plates {
+        width: 43%;
+        top: -27px;
+    }
+    .headphone-img {
+        top: 107px;
+        width: 41%;
+    }
+    .middle-phone {
+        top: 3%;
+    }
+    .feature p {
+        margin-bottom: 39px;
+    }
+    .lorem {
+        padding: 10px 0 158px;
+    }
+    .features {
+        margin-bottom: 219px;
+    }
+}
+@media(max-width:1250px) and (min-width:1200px){
+    .headphone-img img {
+        width: 100%;
+    }
+    .plates {
+        width: 44%;
+        top: -27px;
+    }
+    .headphone-img {
+        top: 135px;
+        width: 41%;
+    }
+    .middle-phone {
+        top: 6%;
+    }
+    .feature p {
+        margin-bottom: 39px;
+    }
+    .lorem {
+        padding: 10px 0 120px;
+    }
+    .features {
+        margin-bottom: 155px;
+    }
+}
+@media(max-width:1199px) and (min-width:992px){
+    .headphone-img img {
+        width: 100%;
+    }
+    .headphone h2 {
+        font-size: 29px;
+    }    
+    .headphone h2 {
+        font-size: 29px;
+    }    
+    .plates {
+        width: 46%;
+        top: -27px;
+    }
+    .headphone-img {
+        top: 140px;
+        width: 42%;
+    }
+    .middle-phone {
+        top: 20%;
+    }
+    .feature p {
+        margin-bottom: 39px;
+    }
+    .lorem {
+        padding: 10px 0 100px;
+    }
+    .features {
+        margin-bottom: 184px;
+    }
+    .nav-img img {
+        width: 26%;
+    }
+    .btn-explore {
+        font-size: 14px;
+    }
+    .carosel-img img {
+        max-width: 110%;
+    }
+    .features h2 {
+        font-size: 30px;
+    }
+    .feature img {
+        width: 11%;
+    }
+    .btn-download {
+        font-size: 14px;
+    }
+    .nav-items {
+        font-size: 22px;
+    }
+    #up-btn{
+        right: 20px!important;
+    }
+}
+@media(max-width:1084px) and (min-width:992px){
+    .middle-phone {
+        top: 25%;
+    }
+}
+@media(max-width:991px) and (min-width:768px){
+    .headphone-img img {
+    display: none;
+    }
+    .headphone h2 {
+        font-size: 29px;
+    }    
+    .headphone h2 {
+        font-size: 29px;
+    }    
+    .plates {
+    display: none;
+    }
+    .middle-phone {
+        top: 85%;
+        width: 63%;
+    }
+    .feature p {
+        margin-bottom: 39px;
+    }
+    .lorem {
+        padding: 10px 0 100px;
+    }
+    .features {
+        margin-bottom: 534px;
+        margin-top: 144px;
+    }
+    .nav-img img {
+        width: 35%;
+    }
+    .btn-explore {
+        font-size: 14px;
+    }
+    .features h2 {
+        font-size: 30px;
+        margin-bottom: 71px;
+    }
+    .feature img {
+        width: 11%;
+    }
+    .btn-download {
+        font-size: 14px;
+    }
+    .nav-items {
+        font-size: 22px;
+    }
+    footer h6 {
+        text-align: center;
+        margin-top: 6px;
+    }
+    footer ul {
+        justify-content: center;
+    }
+    .intro {
+        margin-bottom: 76px;
+    }
+    .lol{
+        text-align: center;
+    }
+    .marginauto{
+        margin: auto;
+    }
+    .headphone {
+        padding: 87px 0 0;
+    }
+    .col-md-0{
+        display: none;
+    }
+    .lorem-feature {
+        text-align: center;
+    }
+    .testimonial {
+        padding: 119px 0;
+    }
+    .footer-2 img {
+        width: 86%;
+    }
+    #up-btn{
+        right: 20px!important;
+        width: 25px;
+    }
+}
+@media(max-width:767px) and (min-width:576px){
+    .headphone-img img {
+    display: none;
+    }
+    .headphone h2 {
+        font-size: 29px;
+    }    
+    .headphone h2 {
+        font-size: 29px;
+    }    
+    .plates {
+    display: none;
+    }
+    .middle-phone {
+        top: 81%;
+        width: 64%;
+    }
+    .feature p {
+        margin-bottom: 39px;
+        font-size: 15px;
+    }
+    .lorem {
+        padding: 10px 0 60px;
+    }
+    .features {
+        margin-bottom: 496px;
+        margin-top: 144px;
+    }
+    .nav-img img {
+        width: 45%;
+    }
+    .btn-explore {
+        font-size: 14px;
+    }
+    .features h2 {
+        font-size: 30px;
+        margin-bottom: 57px;
+    }
+    .feature img {
+        width: 11%;
+    }
+    .btn-download {
+        font-size: 14px;
+    }
+    .nav-items {
+        font-size: 20px;
+        line-height: 60px;
+    }
+    footer h6 {
+        text-align: center;
+        margin-top: 6px;
+    }
+    footer ul {
+        justify-content: center;
+    }
+    .intro {
+        margin-bottom: 76px;
+    }
+    .lol{
+        text-align: center;
+    }
+    .marginauto{
+        margin: auto;
+    }
+    .headphone {
+        padding: 87px 0 0;
+    }
+    .col-md-0{
+        display: none;
+    }
+    .lorem-feature {
+        text-align: center;
+    }
+    .testimonial {
+        padding: 119px 0;
+    }
+    .footer-2 img {
+        width: 86%;
+    }
+    .intro h3 {
+        font-size: 34px;
+    }
+    header {
+        padding: 50px 0 97px;
+    }
+    .feature h5 {
+        font-size: 17px;
+    }
+    #up-btn{
+        right: 20px!important;
+        width: 25px;
+    }
+}
+@media(max-width:700px) and (min-width:576px){
+    .middle-phone {
+        top: 86%;
+        width: 64%;
+    }
+    .features {
+        margin-bottom: 460px;
+        margin-top: 144px;
+    }
+}
+@media(max-width:575px) and (min-width:0px){
+    .headphone-img img {
+    display: none;
+    }
+    .headphone h2 {
+        font-size: 29px;
+    }    
+    .headphone h2 {
+        font-size: 26px;
+    }    
+    .plates {
+    display: none;
+    }
+    .middle-phone {
+        top: 92%;
+        width: 91%;
+    }
+    .feature p {
+        margin-bottom: 68px;
+        font-size: 15px;
+    }
+    .lorem {
+        padding: 10px 0 60px;
+    }
+    .features {
+        margin-bottom: 460px;
+        margin-top: 144px;
+    }
+    .nav-img img {
+        width: 54%;
+    }
+    .btn-explore {
+        font-size: 14px;
+    }
+    .features h2 {
+        font-size: 26px;
+        margin-bottom: 65px;
+    }
+    .feature img {
+        width: 11%;
+    }
+    .btn-download {
+        font-size: 14px;
+    }
+    .nav-items {
+        font-size: 19px;
+        line-height: 57px;
+    }
+    footer h6 {
+        text-align: center;
+        margin-top: 6px;
+    }
+    footer ul {
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin-bottom: 23px;
+    }
+    .intro {
+        margin-bottom: 52px;
+    }
+    .lol{
+        text-align: center;
+    }
+    .marginauto{
+        margin: auto;
+    }
+    .headphone {
+        padding: 87px 0 0;
+    }
+    .col-md-0{
+        display: none;
+    }
+    .lorem-feature {
+        text-align: center;
+    }
+    .testimonial {
+        padding: 119px 0;
+    }
+    .footer-2 img {
+        width: 100%;
+    }
+    .intro h3 {
+        font-size: 26px;
+    }
+    header {
+        padding: 50px 0 97px;
+    }
+    .feature h5 {
+        font-size: 17px;
+    }
+    .carosel-img {
+        width: 84%;
+        margin: auto;
+    }
+    .feature{
+        text-align: center;
+    }
+    .testimonial h4 {
+        font-size: 20px;
+    }
+    .footer-2 h2 {
+        margin-bottom: 24px;
+        font-size: 27px;
+    } 
+    #nav-icon {
+        width: 41px;
+    }   
+    #nav-icon span {
+        height: 3px;
+    }    
+    .footer-2 p {
+        margin-bottom: -40px;
+    }
+    footer ul li {
+        margin: 0;
+        line-height: 48px;
+    }
+    footer {
+        padding: 21px 0px 40px;
+    }
+    .client img {
+        margin: auto;
+        margin-bottom: 18px;
+    }
+    .client {
+        display: block;
+        text-align: center;
+        margin-top: 32px;
+    }
+    #up-btn{
+        display: none!important;
+    }
+}
+@media(max-width:414px) and (min-width:0px){
+    .headphone-img img {
+    display: none;
+    }
+    .headphone h2 {
+        font-size: 29px;
+    }    
+    .headphone h2 {
+        font-size: 23px;
+    }    
+    .plates {
+    display: none;
+    }
+    .middle-phone {
+        top: 96%;
+        width: 91%;
+    }
+    .feature p {
+        margin-bottom: 68px;
+        font-size: 15px;
+    }
+    .lorem {
+        padding: 10px 0 60px;
+    }
+    .features {
+        margin-bottom: 460px;
+        margin-top: 144px;
+    }
+    .nav-img img {
+        width: 59%;
+    }
+    .btn-explore {
+        font-size: 14px;
+    }
+    .features h2 {
+        font-size: 23px;
+        margin-bottom: 65px;
+    }
+    .feature img {
+        width: 11%;
+    }
+    .btn-download {
+        font-size: 14px;
+    }
+    .nav-items {
+        font-size: 19px;
+        line-height: 57px;
+    }
+    footer h6 {
+        text-align: center;
+        margin-top: 6px;
+    }
+    footer ul {
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin-bottom: 23px;
+    }
+    .intro {
+        margin-bottom: 52px;
+    }
+    .lol{
+        text-align: center;
+    }
+    .marginauto{
+        margin: auto;
+    }
+    .headphone {
+        padding: 87px 0 0;
+    }
+    .col-md-0{
+        display: none;
+    }
+    .lorem-feature {
+        text-align: center;
+    }
+    .testimonial {
+        padding: 119px 0;
+    }
+    .footer-2 img {
+        width: 100%;
+    }
+    .intro h3 {
+        font-size: 27px;
+    }
+    header {
+        padding: 50px 0 97px;
+    }
+    .feature h5 {
+        font-size: 17px;
+    }
+    .carosel-img {
+        width: 84%;
+        margin: auto;
+    }
+    .feature{
+        text-align: center;
+    }
+    .testimonial h4 {
+        font-size: 17px;
+    }
+    .footer-2 h2 {
+        margin-bottom: 24px;
+        font-size: 25px;
+    } 
+    #nav-icon {
+        width: 40px;
+        margin-top: -6px;
+    }   
+    #nav-icon span {
+        height: 3px;
+    }    
+    .footer-2 p {
+        margin-bottom: -40px;
+    }
+    footer ul li {
+        margin: 0;
+        line-height: 48px;
+    }
+    footer {
+        padding: 21px 0px 40px;
+    }
+    
+}
+@media(max-width:335px) and (min-width:0px){
+    .headphone-img img {
+    display: none;
+    }
+    .headphone h2 {
+        font-size: 29px;
+    }    
+    .headphone h2 {
+        font-size: 23px;
+    }    
+    .plates {
+    display: none;
+    }
+    .middle-phone {
+        top: 95%;
+        width: 96%;
+    }
+    .feature p {
+        margin-bottom: 68px;
+        font-size: 15px;
+    }
+    .lorem {
+        padding: 10px 0 60px;
+    }
+    .features {
+        margin-bottom: 385px;
+        margin-top: 144px;
+    }
+    .nav-img img {
+        width: 65%;
+    }
+    .btn-explore {
+        font-size: 14px;
+    }
+    .features h2 {
+        font-size: 23px;
+        margin-bottom: 65px;
+    }
+    .feature img {
+        width: 11%;
+    }
+    .btn-download {
+        font-size: 14px;
+    }
+    .nav-items {
+        font-size: 19px;
+        line-height: 57px;
+    }
+    footer h6 {
+        text-align: center;
+        margin-top: 6px;
+        line-height: 26px;
+    }
+    footer ul {
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin-bottom: 23px;
+    }
+    .intro {
+        margin-bottom: 52px;
+    }
+    .lol{
+        text-align: center;
+    }
+    .marginauto{
+        margin: auto;
+    }
+    .headphone {
+        padding: 87px 0 0;
+    }
+    .col-md-0{
+        display: none;
+    }
+    .lorem-feature {
+        text-align: center;
+    }
+    .testimonial {
+        padding: 119px 0;
+    }
+    .footer-2 img {
+        width: 100%;
+    }
+    .intro h3 {
+        font-size: 27px;
+    }
+    header {
+        padding: 50px 0 97px;
+    }
+    .feature h5 {
+        font-size: 17px;
+    }
+    .carosel-img {
+        width: 96%;
+        margin: auto;
+    }
+    .feature{
+        text-align: center;
+    }
+    .testimonial h4 {
+        font-size: 17px;
+    }
+    .footer-2 h2 {
+        margin-bottom: 24px;
+        font-size: 25px;
+    } 
+    #nav-icon {
+        width: 40px;
+        margin-top: -6px;
+    }   
+    #nav-icon span {
+        height: 3px;
+    }    
+    .footer-2 p {
+        margin-bottom: -28px;
+    }
+    footer ul li {
+        margin: 0;
+        line-height: 48px;
+    }
+    footer {
+        padding: 21px 0px 40px;
+    }
+    .client h6 {
+        line-height: 26px;
+        font-size: 15px;
+    }
+    .footer-2 {
+        padding: 98px 0 59px;
+    }
+}
